@@ -1,5 +1,7 @@
 # 💫 About Me:
-Frontend Developer | HTML, CSS, JavaScript, React<br>Building responsive and user-friendly web applications
+Hi there! I'm a **Frontend Developer** passionate about building **responsive, user-friendly, and modern web applications**.  
+I love turning ideas into interactive experiences using **HTML, CSS, JavaScript, and React**.  
+Always learning and exploring new technologies, I strive to write **clean, efficient, and maintainable code**.  
 
 
 ## 🌐 Socials:
